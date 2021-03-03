@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Responsive &amp; Digital Construction Ecosystems on Dr. Sc. Qian Chen</title>
+    <link>https://chenqianethz.github.io/QianCV/</link>
+    <description>Recent content in Responsive &amp; Digital Construction Ecosystems on Dr. Sc. Qian Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chenqianethz.github.io/QianCV/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digitalizing supply chain planning and control</title>
+      <link>https://chenqianethz.github.io/QianCV/post/project-2/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chenqianethz.github.io/QianCV/post/project-2/</guid>
+      <description>This research project presented a framework for an integrated management system to use information from BIM and RFID to support iterative look-ahead planning processes to help major stakeholders shield material flows from negative impact by last-minute changes of design or schedule. To functionally demonstrate the framework, four functional modules were devised; (1) design-change module, (2) schedule-change module, (3) production module, and (4) transport module. They were linked via a central database system built for a common data environment.</description>
+    </item>
+    
+    <item>
+      <title>Optimizing supply chain of a project portfolio</title>
+      <link>https://chenqianethz.github.io/QianCV/post/project-4/</link>
+      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chenqianethz.github.io/QianCV/post/project-4/</guid>
+      <description>This research project proposed a two-step transshipment approach to help the contractor to conduct lateral sharing of unused perishable materials in a project portfolio, where the supply and demand fluctuation could be well managed with minimal cost. The first step is to link 3D models in BIM authoring software with task information to calculate the daily net material supply and demand quantities regarding transshipment. The second step is to use this data to construct a math model, which aims to optimize the material quantities to be transshipped within the project portfolio.</description>
+    </item>
+    
+    <item>
+      <title>Reconfiguring the concrete supply chain</title>
+      <link>https://chenqianethz.github.io/QianCV/post/project-3/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chenqianethz.github.io/QianCV/post/project-3/</guid>
+      <description>This research project proposed a two-step coordination approach that contractors should take to help both suppliers and contractors responsively cope with the demand fluctuations with the minimal cost over the dynamic construction processes. The first step is to automatically calculate the demand fluctuations from a 4D model that monitors the as-built site progress and helps the contractor update the look-ahead schedules. The second step is to make decisions on the material orders at the occurrence of the demand fluctuation determined in the first step.</description>
+    </item>
+    
+    <item>
+      <title>Reviewing enablers for supply chain processes</title>
+      <link>https://chenqianethz.github.io/QianCV/post/project-6/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chenqianethz.github.io/QianCV/post/project-6/</guid>
+      <description>This literature review presented the extent of literature on different enablers for efficient coordination in construction projects. Based on the systematic literature review of 69 carefully selected scientific publications, coordination enablers have been classified into three categories: (1) contractual enablers (including subtopics on relational contracts, (2) procedural enablers (including subtopics on incentive models, multiagent knowledge sharing system and last planner system) and (3) technological enablers (including subtopics on linked databases for design coordination, design for manufacturing software platforms and automated monitoring technologies).</description>
+    </item>
+    
+    <item>
+      <title>Interfacing Lean and BIM-ICT</title>
+      <link>https://chenqianethz.github.io/QianCV/post/project-1/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://chenqianethz.github.io/QianCV/post/project-1/</guid>
+      <description>This research project presented a new workflow, the BIM-RFID-LAP workflow, to improve the management of material flow processes. The new workflow is designed to systematically use regularly updated detailed look-ahead plans when using BIM and RFID technologies. Because of the incorporation of look-ahead plans, the entire material flow processes can be managed with a high granularity and information transparency into detailed construction processes. The existing gaps found in conventional use of BIM and RFID technologies have, therefore, been addressed.</description>
+    </item>
+    
+    <item>
+      <title>Reviewing construction automation</title>
+      <link>https://chenqianethz.github.io/QianCV/post/project-5/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chenqianethz.github.io/QianCV/post/project-5/</guid>
+      <description>Construction automation has the potential to increase construction productivity. Exactly how, and the possible benefits and challenges of construction automation, are not clear for everyone. In order to increase this understanding and to help focus industry efforts, and research efforts to help industry, a data driven review through text mining on scientific literature and social media with respect to the use of automation technologies in construction was accomplished. In research, it was found that scientific research work was mainly focused on developments that can be grouped as 1) Construction Robots and Automation Systems, 2) Construction Managerial Objectives, and 3) Building Information Modelling Based Collaborations.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://chenqianethz.github.io/QianCV/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chenqianethz.github.io/QianCV/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/qian-chen-b7892955/   ResearchGate: https://www.researchgate.net/profile/Qian-Chen-23   Google Scholar: https://scholar.google.ch/citations?user=db-FJ7IAAAAJ&amp;amp;hl=de    </description>
+    </item>
+    
+  </channel>
+</rss>
